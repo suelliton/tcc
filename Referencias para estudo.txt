@@ -1,0 +1,211 @@
+﻿Borenstein, J. and Koren, Y. (1991). The vector
+field histogram - fast obstacle avoidance for
+mobile robots, IEEE Journal of Robotics and
+Automation 7(3): 278–288.
+
+Dutra, P. R. C., de Souza, M. M., Andriolli, G. F.,
+Alvares, A. J. and Ferreira, J. C. E. (2003). ´
+Navmap: Um sistema para navega¸c˜ao por
+mapeamento do robˆo m´ovel nomad xr4000,
+VI Simp´osio Brasilieiro de Automa¸c˜ao Inteligente
+(SBAI), Bauru, SP.
+
+Elfes, A. (1987). Sonar-based real-world mapping
+and navigation, IEEE Journal of Robotics
+and Automation 3(3): 249–265.
+
+Elfes, A. (1989a). Occupancy Grid: A Probabilistic
+Framework for Robot Perception and Navigation,
+PhD thesis, Carnegie Mellon University,
+Pittsburg, Pennsylvania.
+
+Elfes, A. (1989b). Using occupancy grids for mobile
+robot perception and navigation, Computer
+6(22): 46–57.
+
+Kong, F., Chen, Y., Xie, J., Zhang, G. and Zhou,
+Z. (2006). Mobile robot localization based
+on extended kalman filter, 6th World Congress
+on Inteligent Control and Automation,
+Dalian, China.
+
+Konolige, K. (1997). Improved occupancy
+grids for map building, Autonomous Robots
+(4): 351–367.
+
+Moravec, H. P. (1988). Sensor fusion in certainty
+
+
+Barto, A. G. and Mahadevan, S. (2003). Recent advances in
+hierarchical reinforcement learning. Discrete Event Dynamic
+Systems, 13(4):41–77.
+Arvo, J. (1988). Linear Time Voxel Walking for Octrees. Ray
+Tracing News.
+Boyan, J.A. and Moore, A.W. (1995). Generalization in
+reinforcement learning: Safely approximating the value
+function, G. Tesauro, D. S. Touretzky, and T. K.
+Leen, editors, Advances in Neural Information Processing
+Systems 7 Cambridge, MA, The MIT Press.
+Bowling, M. and Veloso, M. (2001). Rational and convergent
+learning in stochastic games, In Proceedings of the Seventeenth
+International Joint Conf. on Artificial Intelligence,
+pp. 1021-1026, Seattle, US.
+Brenner, W., Zarnekow, R. and Wittig, H., (1998). Intelligent
+Software Agents, Springer, 1998.
+Dias, P., Figueiredo, K., Vellasco, M.M.B.R., Pacheco,
+M.A.C. and Barbosa, C.R.H. (2004), Reinforcement
+Learning Hierarchical Neuro-Fuzzy Model for Autonomous
+Robots, Proc. of the 2nd Inter. Conf. on Autonomous
+Robots and Agents, N.Z., Dec. 13-15.
+Figueiredo, K., Vellasco, M., Pacheco, M.A.C. and Souza,
+F.J. (2004). Reinforcement Learning-Hierarchical
+Neuro-Fuzzy Politree Model for Control of Autonomous
+Agents, Fourth International Conference
+on Hybrid Intelligent Systems (HIS’04),pp.130-135,
+(ISBN 0-7695-2291-2), IEEE Comp. Society, Japan,
+Dec.,2004.
+Figueiredo, K., Vellasco, M. and Pacheco, M. A. (2005a).
+Hierarchical Neuro-Fuzzy Models basedon Reinforcement
+Learning for Intelligent Agents. In Proceedings
+8th International Work-Conference on Artificial Neural
+Networks (IWANN’2005), Spain.
+Figueiredo, K, Vellasco, M., Pacheco, M.A. and Souza,
+F.J. (2005b). Modified Reinforcement LearningHierarchical
+Neuro-Fuzzy Politree Model for Control
+of Autonomous Agents. International Journal of
+Simulation Sys., Sci.&Tech, UK, v.6, n. 10-11, p. 4-13.
+Gonçalves, L.B., Vellasco, M., Pacheco, M.A.C. and Souza,
+F.J. (2006). Inverted Hierarchical Neuro-Fuzzy BSP
+System: A Novel Neuro-Fuzzy Model for Pattern Classification
+and Rule Extraction in Databases, aceito para
+publicação no IEEE Trans. on Sys., Man & Cyber., Part
+C: Applications and Review, (ISSN: 1094-6977),IEEE,
+Vol. 36, No. 2, pp. 236-248, March.
+Haykin, S. (1998). Neural Networks – A Comprehensive
+Foundation, Macmillan College Publishing Company,
+Inc.
+Jang, J.S.R. (1993). ANFIS: Adaptive-Netwo rk-Based
+Fuzzy Inference System, IEEE Trans. on Sys., Man,
+and Cybernetics, Vol.23, N.3, may/june 1993, p.665-
+685.
+Jouffe, L. (1998). Fuzzy Inference System Learning by Reinforcement
+Methods, IEEE Trans. on Sys., Man and Cybernetics,
+part c, vol.28, n. 3, pp. 338-355.
+Kapetanakis, S. and Kudenko, D. (2002). Reinforcement Learning
+of Coordination in Cooperative Multi-agent Systems.
+In Proceedings of AAAI-02/IAAI-02. Edmonton,
+Alberta.
+Koza, J.R. (1992). Genetic Programming: On the programming
+of computers by means of natural selection, Cambridge,
+MA, MIT Press.
+Kruse, R.and Nauck, D. (1995). NEFCLASS-A NeuroFuzzy
+Approach for the Classification of Data, Proc.
+of the ACM Symposium on Applied Computing, Nashville.
+Lima, M.J.L., Melo, J.D. and Doria Neto, A.D., (2005). Hierarchical
+Reinforcement Learning for Metrical Task
+Systems, Fifth International Conference on Hybrid Intelligent
+Systems (HIS’05), pp. 251-258, RJ, Brazil.
+Mendel, J.M. (1995). Fuzzy Logic Systems for Engineering:
+A Tutorial, Proceedings of the IEEE, Vol.83 , n. 3,
+march, p. 345-377.
+Moore, A.W. (1991). Variable resolution dynamic programming:
+Efficiently learning action maps in multivariate
+real-valued state-spaces, Proc. of the Eighth Inter. Conf.
+on Machine Learning, L.A., Morgan Kaufmann, 333-
+337.
+Ostergard, E.H. (2000). Evolving Complex Robot Behaviour,
+Master’s Thesis of Departmente of Computer Science,
+University of Aarhus, Denmark, May.
+Ribeiro, C.H.C. (1999) A Tutorial on Reinforcement Learning
+Techniques In: Inter. Joint Conf. on Neural
+Networks ed: INNS Press.
+Souza, F.J., Vellasco, M.M.B.R., Pacheco, M.A. (2000). Hierarchical
+Neuro-Fuzzy BSP Model – HNFB, Proceedings
+of the VIth Brazilian Symp. on Neural Networks
+– Volume 2 – (ISBN 0-7695-0856-1), IEEE Computer
+Society, Rio de Janeiro, RJ, 22-25 Nov.
+Revista Controle & Automação/Vol.18 no.2/Abril, Maio e Junho 2007 249
+Souza, F.J., Vellasco, M. and Pacheco, M.A. (2002). Hierarchical
+Neuro-Fuzzy QuadTree Models, FUZZY SETS
+& SYSTEMS, ISSN 0165-0114, vol 130/2, August
+2002, Elsevier Science, The Netherlands, pp. 189-205.
+Sutton, R.S.(1996). Generalization in Reinforcement learning:
+Succesful examples using sparse coarse coding,
+In Touretzky, D., Mozer, M., and Hasselmo, M., ed.,
+Advances in Neural Information Proc. Sys.8, pp.1038-
+1044, MIT Press.
+Sutton, R.S. and Barto, A.G. (1998). Reinforcement Learning:
+An Introduction, MIT Press.
+Vuorimaa, P. (1994). Fuzzy self-organing map, Fuzzy Sets
+and Systems, No.66, pp.223-231.grids for mobile robots, AI Magazine
+9(2): 61–74.
+
+Moravec, H. P. (1996). Robot spatial perception
+by stereoscopic vision and 3d evidence grid,
+Technical Report CMU-RI-TR-96-34, CMU
+Robotis Intitute, Pittsburgh, Pennsylvania.
+
+Thrun, S. (2003). Learning occupancy grid maps
+with forward sensor models, Autonomous Robots
+(15): 111–127.
+
+Thrun, S., Burgard, W. and Fox, D. (2005).
+Probabilistic Robotics, MIT Press, Cambrige,
+Massachusetts, USA.
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+Bekey, G. A., (2005). “Autonomous Robots: From Biological
+Inspiration to Implementation and Control”. The MIT
+Press: Cambridge, London, pp. 563.
+
+Bordon, M. E.; Franchin, M. N. and Castanho, J. E. C., (2011).
+Sistema Nebuloso de Arquitetura Simplificada para
+Controle de Trajetória e Velocidade de Robôs Móveis.
+
+Anais do X SBAI - Simpósio Brasileiro de Automação
+Inteligente, São João del Rei, pp. 671-676.
+
+Borges, G. A.; Lima, A. M. N. and Deep, G. S., (2000).
+“Design of an Output Feedback Trajectory Controller
+for an Automated Guided Vehicle”. Anais do XIII
+
+Congresso Brasileiro de Automática (CBA), Sociedade
+Brasileira de Automática, Florianópolis, pp, 2366-2371.
+
+Borges, G. A.; Lima, A. M. N. and Deep, G. S., (2003).
+“Controladores Cinemáticos de Trajetória para Robôs
+Móveis com Tração Diferencial”. Anais do VI SBAI -
+
+Simpósio Brasileiro de Automação Inteligente, Bauru,
+pp. 787-792.
+
+Dudek, G. and Jenkin, M., (2000). “Computational Principles
+of Mobile Robotics”. The MIT Press: Cambridge,
+London, pp. 280.
+
+Jung, C. R.; Osório, F. S.; Kelber, C. and Heinen, F., (2005).
+Computação Embarcada: Projeto e Implementação de
+Veículos Autônomos Inteligentes. XXIV Jornada de
+Atualização em Informática, São Leopoldo, RS, Vol. 1,
+pp. 1358-1406.
+
+Osório, F. S.; Musse, S. R.; Vieira, R; Heinen, M. R. and
+Paiva, D. C., (2006). “Increasing Reality in Virtual
+
+Reality Applications through Physical and Behavioral
+Simulation. Proceedings of the Virtual Concept International
+Conference, Berlin, Springer Verlag, v. 1, pp.
+1-45.
+
+Siegwart, R. and Illah, R. N., (2004). “Introduction to Autonomous
+Mobile Robots”. A Bradford Book, The MIT
+Press: Cambridge, London, pp. 317.
+
+Thrun, S.; Burgard, W. and Fox, D., (2004). “Probabilistic
+Robotics”. The MIT Press: Cambridge, London, pp.
+667.
+
+Wolf. D. F.; Simões, E. V.; Osório, F, S. and Trindade Jr., O.,
+(2009). Robótica Inteligente: Da Simulação às Aplicações
+no Mundo Real. XXVIII Jornada de Atualização
+em Informática, pp 1-51.
